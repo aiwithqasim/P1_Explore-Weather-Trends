@@ -1,6 +1,8 @@
 # Porject : Explore-Weather-Trends
 ### by Qasim Hassan
 
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fenergyeducation.ca%2Fencyclopedia%2FClimate_vs_weather&psig=AOvVaw3CssOkJA75ftvEB5w_PLVp&ust=1589135939503000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiRv_C2p-kCFQAAAAAdAAAAABAD">
+
 ## Summary
 In this project, I'll analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends. Moreover i will use SQL query to extract data from the given Data base and i have to visualize the insight or Average temperature to find the findings.
 
@@ -29,6 +31,6 @@ Then we should have to make Necessary Observation's about the similarities and d
 
 
 ### Resources:
-1-https://www.udacity.com/course/intro-to-data-analysis--ud170
-2-https://www.udacity.com/course/sql-for-data-analysis--ud198
-3- https://towardsdatascience.com/data-science-for-weather-forecast-how-to-prove-a-funny-theory-f005ea2d1efe
+1-https://www.udacity.com/course/intro-to-data-analysis--ud170 <br>
+2-https://www.udacity.com/course/sql-for-data-analysis--ud198 <br>
+3- https://towardsdatascience.com/data-science-for-weather-forecast-how-to-prove-a-funny-theory-f005ea2d1efe <br> 
